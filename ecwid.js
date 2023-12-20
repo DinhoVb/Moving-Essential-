@@ -1,1 +1,3 @@
-console.log("Estamos en pruebas");
+document.addEventListener('DOMContentLoaded', function () {
+    console.log('Proximamente.....');
+});
